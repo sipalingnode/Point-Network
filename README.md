@@ -208,7 +208,7 @@ evmosd tx staking create-validator \
   --moniker $NODENAME \
   --chain-id $EVMOS_CHAIN_ID
 ```
-## Delete Node (Permanent) 
+## Delete Node (Command ini digunakan kalo udah selesai nodenya) 
 
 ```
 sudo systemctl stop evmosd
